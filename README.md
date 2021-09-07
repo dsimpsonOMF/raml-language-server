@@ -1,5 +1,8 @@
 # RAML Language Server
 
+This extension is deprecated and [this]https://github.com/aml-org/als) should be used instead. It is maintained by the AML team.
+{: .alert .alert-warning}
+
 ## Installation
 To install, open the VS Code Marketplace or Extension Manager and select install. 
 
